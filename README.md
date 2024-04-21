@@ -19,7 +19,7 @@ To use VMDK2VHD Portable, follow these steps:
 
 1. Download the ZIP file containing the utility.
 2. Extract the contents of the ZIP file to a folder of your choice.
-3. Run the `Vmdk2Vhd.exe` executable file.
+3. Run the `VMDK2VHDPortable.exe` executable file.
 
 ## System Requirements
 
